@@ -2,12 +2,12 @@
 Il progetto consiste in un editor di testo scritto in C, con la possibilità di effettuare undo e redo multipli, durante gli inserimenti, oltre a consueta stampa e eliminazione.
 
 Sono stati implementati i seguenti comandi:
-  * (ind1,ind2)c: Change da ind1 a ind2 compresi.
-  * (ind1,ind2)d: Delete da ind1 a ind2 compresi.
-  * (ind1,ind2)p: Print da ind1 a ind2 compresi.
-  * (num)u: Effettua l'undo di num operazioni.
-  * (num)r: Effettua il redo di num operazioni.
-  * q: Termina l'esecuzione.
+  * **(ind1,ind2)c**: Change da ind1 a ind2 compresi.
+  * **(ind1,ind2)d**: Delete da ind1 a ind2 compresi.
+  * **(ind1,ind2)p**: Print da ind1 a ind2 compresi.
+  * **(num)u**: Effettua l'undo di num operazioni.
+  * **(num)r**: Effettua il redo di num operazioni.
+  * **q**: Termina l'esecuzione.
 
 Una riga di testo fornita in ingresso all'editor puó contenere al massimo 1024 caratteri.
 Viene inoltre assunto che i comandi siano inseriti sempre correttamente.
