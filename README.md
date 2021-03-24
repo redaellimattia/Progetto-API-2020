@@ -8,7 +8,9 @@ Sono stati implementati i seguenti comandi:
   * (num)u: Effettua l'undo di num operazioni.
   * (num)r: Effettua il redo di num operazioni.
   * q: Termina l'esecuzione.
+
 Una riga di testo fornita in ingresso all'editor puó contenere al massimo 1024 caratteri.
+
 Viene inoltre assunto che i comandi siano inseriti sempre correttamente.
 
 ##Esempio di Input:
