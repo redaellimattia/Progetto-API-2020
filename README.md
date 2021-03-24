@@ -1,4 +1,4 @@
-# Progetto di algoritmi e strutture dati 2020.
+# Prova Finale di algoritmi e strutture dati 2020.
 Il progetto consiste in un editor di testo scritto in C, con la possibilità di effettuare undo e redo multipli, durante gli inserimenti, oltre a consueta stampa e eliminazione.
 
 Sono stati implementati i seguenti comandi:
