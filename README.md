@@ -13,7 +13,7 @@ Una riga di testo fornita in ingresso all'editor puó contenere al massimo 1024 
 
 Viene inoltre assunto che i comandi siano inseriti sempre correttamente.
 
-##Esempio di Input:
+## Esempio di Input:
 1,2c
 prima riga
 seconda riga
