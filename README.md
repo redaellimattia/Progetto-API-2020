@@ -1,5 +1,5 @@
 # Prova Finale di algoritmi e strutture dati 2020.
-Il progetto consiste in un editor di testo scritto in C, con la possibilità di effettuare undo e redo multipli, durante gli inserimenti, oltre a consueta stampa e eliminazione.
+Il progetto consiste in un editor di testo scritto in C, con la possibilità di effettuare undo e redo multipli, durante gli inserimenti, oltre a consueta stampa e eliminazione.  La valutazione tiene conto dell'efficienza spazio-temporale del programma, oltre alla verifica di output corretto a fronte di alcuni test privati, con migliaia di righe di input.
 
 Sono stati implementati i seguenti comandi:
   * **(ind1,ind2)c**: Change da ind1 a ind2 compresi.
@@ -64,4 +64,4 @@ nuova seconda riga
 terza riga  
 
 ## Implementazione
-La valutazione tiene conto dell'efficienza spazio-temporale del programma, oltre alla verifica di output corretto a fronte di alcuni test privati, con migliaia di righe di input.
+
