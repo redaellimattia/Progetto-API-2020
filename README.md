@@ -63,5 +63,5 @@ nuova prima riga
 nuova seconda riga  
 terza riga  
 
-##Implementazione
+## Implementazione
 La valutazione tiene conto dell'efficienza spazio-temporale del programma, oltre alla verifica di output corretto a fronte di alcuni test privati, con migliaia di righe di input.
