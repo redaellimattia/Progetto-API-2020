@@ -69,6 +69,7 @@ Si é implementato l'intero algoritmo utilizzando principalmente:
   * Una lista concatenata contenente il testo corrente.
   * Una pila per effettuare le operazioni di **undo**.
   * Una pila per effettuare le operazioni di **redo**.  
+
 Nella lista concatenata vengono salvate tutte le stringhe derivate dalle operazioni di **change**.  
 Ogni volta che viene effettuata una operazione che puo essere annullata (Change o Delete), viene salvata coerentemente sulla pila degli undo.  
 Quando vengono effettuati degli **undo** viene conseguentemente svuotata la pila di undo annullando le operazioni.  
@@ -77,5 +78,5 @@ In caso in cui vengono effettuati dei **redo** viene svuotata la pila dei redo e
 La pila dei redo viene svuotata nel caso in cui vengano eseguite delle operazioni annullabili (Change o Delete) dopo una successione di **undo** e **redo**.
 
 ## Conclusione
-L'implementazione si é rivelata corretta e adatta a livello di costo spazio-temporale, sia per i [casi di test pubblici](../Progetto-API-2020/main/Public_Tests) che per i casi di test privati.
+L'implementazione si é rivelata corretta e adatta a livello di costo spazio-temporale, sia per i [casi di test pubblici](/Public_Tests) che per i casi di test privati.
 
