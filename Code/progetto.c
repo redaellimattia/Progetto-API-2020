@@ -68,7 +68,7 @@ puntNodo inserimento(puntNodo n, char input[]){
     cont++;
     n->next = new;
     gets(input);
-    if(strcmp(input,".")==0){
+    if(strcmp(input,".")==0){ 
         n->next = NULL;
         free(new);
         return n;
