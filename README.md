@@ -1,5 +1,5 @@
 # Prova Finale di algoritmi e strutture dati 2020.
-Il codice é consultabile [qui](/Code/progetto.c).
+Il codice é consultabile [qui](/Code/progetto.c).  
 Le specifiche sono consultabili [qui](/Doc/specifiche.pdf).
 ## edU, o ed con Undo multipli
 Il progetto consiste in un editor di testo scritto in **C**, con la possibilità di effettuare undo e redo multipli, durante gli inserimenti, oltre a consueta stampa e eliminazione.   
