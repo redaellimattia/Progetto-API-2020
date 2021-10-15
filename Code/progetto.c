@@ -378,9 +378,8 @@ int main(){
                     }
                 }
                 else{
-                    if(rigaInput[contCom]=='r'&&contRedoPile!=0){
+                    if(rigaInput[contCom]=='r'&&contRedoPile!=0)
                         head = redo(valComandi[0],head,false);
-                    }
                     else{ 
                         if(rigaInput[contCom]=='u'&&contUndoPile!=0){
                             flagFixSalvataggi = 1;
